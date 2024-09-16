@@ -79,3 +79,34 @@ header{
 .buttons button{
     padding: 20px;
 }
+
+footer .footerinfo{
+    background-color:#403d38;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.aboutus{
+    width: 30%;
+}
+a{
+    color:black;
+    text-decoration: none;
+}
+.usefullinks ul{
+    list-style: none;
+}
+.openinghours ul{
+    list-style: none;
+}
+.contactdetails ul{
+    list-style: none;
+}
+.footerend{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color:#353330;
+}
